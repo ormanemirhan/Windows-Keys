@@ -1,2 +1,96 @@
-# Windows-Keys
-Kurulum sırasında Windows sürümünü seçmek için kullanılabilecek genel ürün anahtarları.
+# NOT
+
+**Bunlar Windows etkinleştirme için geçerli ürün / lisans anahtarları değildir.**  
+Bu anahtarlar yalnızca kurulum sırasında Windows sürümünü seçmek için kullanılır, etkinleştirme veya lisanslama işlemi yapmazlar.
+
+## İçindekiler
+
+- [Windows 11](#windows-11)
+  - [RTM Genel Anahtarlar](#rtm-genel-anahtarlar)
+  - [KMS İstemci Ürün Anahtarları](#kms-istemci-ürün-anahtarları)
+- [Windows 10](#windows-10)
+  - [Varsayılan Ürün Anahtarları](#varsayılan-ürün-anahtarları)
+  - [OEM Activation 3.0 için Varsayılan Anahtarlar](#oem-activation-30-için-varsayılan-anahtarlar)
+  - [RTM Ürün Anahtarları](#rtm-ürün-anahtarları)
+  - [KMS İstemci Ürün Anahtarları](#kms-istemci-ürün-anahtarları-1)
+- [Windows 8](#windows-8)
+  - [Ön Yükleme Anahtarları](#ön-yükleme-anahtarları)
+- [Kaynaklar](#kaynaklar)
+
+---
+
+# Windows 11
+
+## RTM Genel Anahtarlar
+
+| Windows Sürümü                      | Ürün Anahtarı                 |
+|:------------------------------------|:------------------------------|
+| Windows 11 Home                     | YTMG3-N6DKC-DKB77-7M9GH-8HVX7 |
+| Windows 11 Home N                   | 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW |
+| Windows 11 Home Tek Dil             | BT79Q-G7N6G-PGBYW-4YWX6-6F4BT |
+| Windows 11 Home Ülkeye Özel         | N2434-X9D7W-8PF6X-8DV9T-8TYMD |
+| Windows 11 Pro                      | VK7JG-NPHTM-C97JM-9MPGT-3V66T |
+| Windows 11 Pro N                    | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT |
+| Windows 11 Pro Workstations         | DXG7C-N36C4-C4HTG-X4T3X-2YV77 |
+| Windows 11 Pro Workstations N       | WYPNQ-8C467-V2W6J-TX4WX-WT2RQ |
+| Windows 11 Pro Education            | 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB |
+| Windows 11 Pro Education N          | GJTYN-HDMQY-FRR76-HVGC7-QPF8P |
+| Windows 11 Education                | YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY |
+| Windows 11 Education N              | 84NGF-MHBT6-FXBX8-QWJK7-DRR8H |
+| Windows 11 Enterprise               | XGVPP-NMH47-7TTHJ-W3FW7-8HV2C |
+| Windows 11 Enterprise N             | WGGHN-J84D6-QYCPR-T7PJ7-X766F |
+| Windows 11 Enterprise G             |                               |
+| Windows 11 Enterprise G N           | FW7NV-4T673-HF4VX-9X4MM-B4H4T |
+| Windows 11 Enterprise LTSC 2019     |                               |
+| Windows 11 Enterprise N LTSC 2019   |                               |
+
+## KMS İstemci Ürün Anahtarları
+
+Bakınız: [Microsoft Docs - KMS Client Keys](https://learn.microsoft.com/windows-server/get-started/kms-client-activation-keys)
+
+| Windows Sürümü                      | Ürün Anahtarı                 |
+|:------------------------------------|:------------------------------|
+| Windows 11 Home                     | TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 |
+| Windows 11 Home N                   | 3KHY7-WNT83-DGQKR-F7HPR-844BM |
+| Windows 11 Home Tek Dil             | 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH |
+| Windows 11 Home Ülkeye Özel         | PVMJN-6DFY6-9CCP6-7BKTT-D3WVR |
+| Windows 11 Pro                      | W269N-WFGWX-YVC9B-4J6C9-T83GX |
+| Windows 11 Pro N                    | MH37W-N47XK-V7XM9-C7227-GCQG9 |
+| Windows 11 Pro Workstations         | NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J |
+| Windows 11 Pro Workstations N       | 9FNHH-K3HBT-3W4TD-6383H-6XYWF |
+| Windows 11 Pro Education            | 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y |
+| Windows 11 Pro Education N          | YVWGF-BXNMC-HTQYQ-CPQ99-66QFC |
+| Windows 11 Education                | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 |
+| Windows 11 Education N              | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ |
+| Windows 11 Enterprise               | NPPR9-FWDCX-D2C8J-H872K-2YT43 |
+| Windows 11 Enterprise N             | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 |
+| Windows 11 Enterprise G             | YYVX9-NTFWV-6MDM3-9PT4T-4M68B |
+| Windows 11 Enterprise G N           | 44RPN-FTY23-9VTTB-MP9BX-T84FV |
+| Windows 11 Enterprise LTSC 2019     | M7XTQ-FN8P6-TTKYV-9D4CC-J462D |
+| Windows 11 Enterprise N LTSC 2019   | 92NFX-8DJQP-P6BBQ-THF9C-7CG2H |
+
+---
+
+# Windows 8
+
+## Ön Yükleme Anahtarları
+
+| Windows Sürümü            | Ürün Anahtarı                 |
+|:--------------------------|:------------------------------|
+| Windows 8                 | 46V6N-VCBYR-KT9KT-6Y4YF-QGJYH |
+| Windows 8 Professional    | V7C3N-3W6CM-PDKR2-KW8DQ-RJMRD |
+| Windows 8 N               | 7QNT4-HJDDR-T672J-FBFP4-2J8X9 |
+| Windows 8 Professional N  | 4NX4X-C98R3-KBR22-MGBWC-D667X |
+| Windows 8 Tek Dil         | NH7GX-2BPDT-FDPBD-WD893-RJMQ4 |
+| Windows 8.1 Preview       | NTTX3-RV7VB-T7X7F-WQYYY-9Y92  |
+
+---
+
+# Kaynaklar
+
+- https://devicepartner.microsoft.com/en-us/communications/comm-windows-10-build  
+- https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/oem-activation-3?view=windows-10  
+- https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys  
+- https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227  
+- https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html  
+- https://www.elevenforum.com/t/generic-product-keys-to-install-or-upgrade-windows-11-editions.3713/
